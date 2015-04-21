@@ -1,0 +1,2 @@
+sudo chef-solo -o 'recipe[common::packages]'
+
